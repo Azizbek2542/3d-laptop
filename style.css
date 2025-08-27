@@ -1217,9 +1217,9 @@
 }
 
 @keyframes code-panel {
-  from {
+  /* from {
         transform: scale(0);
-  }
+  } */
   to {
     opacity: 1;
   }
