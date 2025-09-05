@@ -1,3 +1,7 @@
+body {
+  background: #000;
+}
+
 .laptop-bottom-panel {
   width: 350px;
   height: 200px;
@@ -1634,4 +1638,8 @@
 .prnt-text {
   background-color: green;
   width: 50px;
+}
+
+.laptop-main-wrapper {
+  transform: scale(1vw);
 }
